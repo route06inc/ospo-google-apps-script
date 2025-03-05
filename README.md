@@ -12,7 +12,7 @@ Please replace the specified locations in the following files, for example `[REP
 * [x] CODE_OF_CONDUCT.md
 * [x] CODE_OF_CONDUCT_ja.md
     * Remove it if you don't need it
-* [ ] CONTRIBUTING.md
+* [x] CONTRIBUTING.md
 * [ ] README.md
 * [ ] SECURITY.md
 
