@@ -1,6 +1,4 @@
-<!-- Replace [REPO NAME] -->
-
-# [REPO NAME]
+# OSPO Google Apps Script by ROUTE06, Inc.
 
 ## TODO
 
@@ -13,7 +11,7 @@ Please replace the specified locations in the following files, for example `[REP
 * [x] CODE_OF_CONDUCT_ja.md
     * Remove it if you don't need it
 * [x] CONTRIBUTING.md
-* [ ] README.md
+* [x] README.md
 * [ ] SECURITY.md
 
 ### Choose LICENSE
