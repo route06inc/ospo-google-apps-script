@@ -1,0 +1,14 @@
+name: CodeQL
+
+on:
+  push:
+
+permissions:
+  actions: read
+  checks: read
+  contents: read
+  security-events: write
+
+jobs:
+  codeql:
+    uses: route06/actions/.github/workflows/codeql.yml@v2

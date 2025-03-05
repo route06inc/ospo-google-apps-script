@@ -1,0 +1,52 @@
+name: Documentation Issue
+description: Suggest improvements or corrections to the documentation.
+labels:
+  - documentation
+body:
+  - type: checkboxes
+    attributes:
+      label: Self Checks
+      description: "To make sure we get to your issue in time, please check the following:"
+      options:
+        - label: I have searched for existing issues [search for existing issues](../issues), including closed ones.
+          required: true
+
+  - type: input
+    attributes:
+      label: URL
+      description: Add the URL to the page that needs improvements or corrections.
+      placeholder: https://example.com/api/docs/...
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Current Text
+      description: What is the current text or content that you believe needs improvement?
+      placeholder: Include a relevant excerpt of the documentation.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Suggested Improvement
+      description: What changes or improvements do you suggest? Please provide the corrected text or detailed feedback.
+      placeholder: Include corrected content or detailed suggestions.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Reason for Suggestion
+      description: Why do you think this change will improve the documentation?
+      placeholder: e.g., Improve clarity, fix an error, add more context
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Related References
+      description: Provide any relevant links, issues, or references.
+      placeholder: "e.g., Issue #1234, [Link to discussion](https://example.com)"
+    validations:
+      required: false

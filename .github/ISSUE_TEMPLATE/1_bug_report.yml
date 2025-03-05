@@ -1,0 +1,65 @@
+name: Bug report
+description: Report errors or unexpected behavior
+labels:
+  - bug
+body:
+  - type: checkboxes
+    attributes:
+      label: Self Checks
+      description: "To make sure we get to your issue in time, please check the following:"
+      options:
+        - label: This is only for bug report, if you would like to ask a question, please head to [Discussions](../discussions/categories/q-a).
+          required: true
+        - label: I have searched for existing issues [search for existing issues](../issues), including closed ones.
+          required: true
+
+  - type: dropdown
+    attributes:
+      label: Cloud or Self Hosted
+      description: How / Where was it installed from?
+      multiple: true
+      options:
+        - Cloud
+        - Self Hosted
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Version (only for Self Hosted)
+      description: See about section in console
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: Describe the exact steps that lead to the bug.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: Describe what you expected to happen.
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Actual Behavior
+      description: Describe what actually happened.
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: Provide any other relevant information or context (e.g., logs, screenshots).
+    validations:
+      required: false
