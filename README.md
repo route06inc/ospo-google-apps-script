@@ -12,7 +12,7 @@ Please replace the specified locations in the following files, for example `[REP
     * Remove it if you don't need it
 * [x] CONTRIBUTING.md
 * [x] README.md
-* [ ] SECURITY.md
+* [x] SECURITY.md
 
 ### Choose LICENSE
 
