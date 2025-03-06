@@ -8,9 +8,9 @@ body:
       label: Self Checks
       description: "To make sure we get to your issue in time, please check the following:"
       options:
-        - label: This is only for bug report, if you would like to ask a question, please head to [Discussions](../discussions/categories/q-a).
+        - label: This is only for bug report, if you would like to ask a question, please head to [Discussions](https://github.com/route06inc/ospo-google-apps-script/discussions/categories/q-a).
           required: true
-        - label: I have searched for existing issues [search for existing issues](../issues), including closed ones.
+        - label: I have searched for existing issues [search for existing issues](https://github.com/route06inc/ospo-google-apps-script/issues), including closed ones.
           required: true
 
   - type: dropdown
