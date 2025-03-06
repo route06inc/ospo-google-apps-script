@@ -8,7 +8,7 @@ body:
       label: Self Checks
       description: "To make sure we get to your issue in time, please check the following:"
       options:
-        - label: I have searched for existing issues [search for existing issues](../issues), including closed ones.
+        - label: I have searched for existing issues [search for existing issues](https://github.com/route06inc/ospo-google-apps-script/issues), including closed ones.
           required: true
 
   - type: input
