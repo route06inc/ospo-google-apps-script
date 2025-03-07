@@ -174,3 +174,7 @@ If any other script properties are modified, the above reconfiguration may be ne
 
 * [GitHub Apps の Access Token を取得するGoogle Apps Script 用ライブラリーを作った](https://zenn.dev/hankei6km/articles/fetch-github-apps-token-by-google-apps-script) (In Japanese)
 * [Exception: Invalid argument: key · Issue \#122 · googleworkspace/apps\-script\-oauth2](https://github.com/googleworkspace/apps-script-oauth2/issues/122)
+
+## Contributing
+
+Refer to our [contribution guidelines](./CONTRIBUTING.md) and [Code of Conduct for contributors](./CODE_OF_CONDUCT.md).

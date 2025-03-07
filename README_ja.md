@@ -174,3 +174,7 @@ const setKey = () => {
 
 * [GitHub Apps の Access Token を取得するGoogle Apps Script 用ライブラリーを作った](https://zenn.dev/hankei6km/articles/fetch-github-apps-token-by-google-apps-script)
 * [Exception: Invalid argument: key · Issue \#122 · googleworkspace/apps\-script\-oauth2](https://github.com/googleworkspace/apps-script-oauth2/issues/122)
+
+## 貢献
+
+コードに貢献したい方は [contribution guidelines](./CONTRIBUTING.md) と[コントリビューター行動規範](./CODE_OF_CONDUCT_ja.md)を参照してください。

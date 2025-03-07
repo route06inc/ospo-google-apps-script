@@ -1,5 +1,3 @@
-<!-- Replace [ORG NAME] and [REPO NAME], complete [TODO] -->
-
 # Contributing
 
 Thank you for your interest in this project! Please contribute according to the following guidelines:
@@ -16,7 +14,7 @@ To set up a development environment, please follow these steps:
    git clone https://github.com/route06inc/ospo-google-apps-script
    ```
 
-2. [TODO]
+2. See [README.md](./README.md) or [README_ja.md](./README_ja.md)
 
 ## Issues and feature requests
 
