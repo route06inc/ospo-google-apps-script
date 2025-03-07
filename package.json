@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@google/clasp": "2.5.0"
+  }
+}
