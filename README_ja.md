@@ -1,5 +1,10 @@
 # OSPO Google Apps Script by ROUTE06, Inc.
 
+<p>
+  <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
+  <a href="./README_ja.md"><img alt="日本語のREADME" src="https://img.shields.io/badge/日本語-d9d9d9"></a>
+</p>
+
 ## 概要
 
 GitHub リポジトリの各種メトリクスを Google スプレッドシートに蓄積する Google Apps Script (GAS)。
