@@ -1,14 +1,23 @@
-## Summary
-<!-- Briefly describe the changes and the purpose of the PR. -->
+## User description
 
-## Related Issue
-<!-- Mention the related issue number if applicable. -->
+<!-- If present, mention the related issue. -->
 
-## Changes
-<!-- List the main changes made in this PR. -->
+* ...
 
-## Testing
-<!-- Briefly describe the testing steps or results. -->
+## PR Type
 
-## Other Information
-<!-- Add any other relevant information for the reviewer. -->
+<!-- Do not change this section. -->
+
+pr_agent:type
+
+## Description
+
+<!-- Do not change this section. -->
+
+pr_agent:summary
+
+## Changes walkthrough 📝
+
+<!-- Do not change this section. -->
+
+pr_agent:walkthrough
