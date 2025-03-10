@@ -46,13 +46,13 @@ Manage GAS code using [@google/clasp](https://www.npmjs.com/package/@google/clas
 1. Enable the Google Apps Script API at https://script.google.com/home/usersettings
 1. Install clasp:
 
-    ```consle
+    ```console
     npm i
     ```
 
 1. Log in to script.google.com using clasp:
 
-    ```consle
+    ```console
     npx clasp login
     ```
 

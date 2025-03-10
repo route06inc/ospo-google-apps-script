@@ -43,16 +43,16 @@ GitHub リポジトリの各種メトリクスを Google スプレッドシー�
 
 [@google/clasp](https://www.npmjs.com/package/@google/clasp) で GAS のコードを管理する。
 
-1. https://script.google.com/home/usersettings で Google Apps Script API を有効にする。
+1. https://script.google.com/home/usersettings で Google Apps Script API を有効化する
 1. clasp をインストールする
 
-    ```consle
+    ```console
     npm i
     ```
 
 1. clasp で script.google.com にログインする
 
-    ```consle
+    ```console
     npx clasp login
     ```
 
