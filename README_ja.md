@@ -46,13 +46,13 @@ GitHub リポジトリの各種メトリクスを Google スプレッドシー�
 1. https://script.google.com/home/usersettings で Google Apps Script API を有効にする。
 1. clasp をインストールする
 
-    ```consle
+    ```console
     npm i
     ```
 
 1. clasp で script.google.com にログインする
 
-    ```consle
+    ```console
     npx clasp login
     ```
 
