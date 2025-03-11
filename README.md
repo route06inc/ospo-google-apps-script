@@ -178,3 +178,10 @@ If any other script properties are modified, the above reconfiguration may be ne
 ## Contributing
 
 Refer to our [contribution guidelines](./CONTRIBUTING.md) and [Code of Conduct for contributors](./CODE_OF_CONDUCT.md).
+
+## References
+
+Currently, we use this to collect metrics for the following repositories:
+
+* https://github.com/giselles-ai/giselle
+* https://github.com/liam-hq/liam
