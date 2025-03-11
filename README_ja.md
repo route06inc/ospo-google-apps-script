@@ -178,3 +178,10 @@ const setKey = () => {
 ## 貢献
 
 コードに貢献したい方は [contribution guidelines](./CONTRIBUTING.md) と[コントリビューター行動規範](./CODE_OF_CONDUCT_ja.md)を参照してください。
+
+## 参考
+
+ROUTE06 では現在、下記リポジトリのメトリクス収集に使用している。
+
+* https://github.com/giselles-ai/giselle
+* https://github.com/liam-hq/liam
