@@ -7,6 +7,20 @@ https://github.com/org1/repo1
 * [Repo1 repo metrics \- Google Sheets](https://docs.google.com/spreadsheets/d/GOOGLE_SHEET_ID/edit)
     * [Update Google Sheets with latest repo metrics \- Google Apps Script](https://script.google.com/u/0/home/projects/SCRIPT_ID/edit)
 
+You can also open them in your browser with the following command:
+
+Google Sheets:
+
+```console
+make open-gsheet
+```
+
+Google Apps Script:
+
+```console
+make open-gas
+```
+
 ## Collected metrics
 
 * Stargazers
