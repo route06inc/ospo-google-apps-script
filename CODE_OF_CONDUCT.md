@@ -1,5 +1,10 @@
 # Contributor Covenant Code of Conduct
 
+<p>
+  <a href="./CODE_OF_CONDUCT.md"><img alt="CODE_OF_CONDUCT in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
+  <a href="./CODE_OF_CONDUCT_ja.md"><img alt="日本語のCODE_OF_CONDUCT" src="https://img.shields.io/badge/日本語-d9d9d9"></a>
+</p>
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
