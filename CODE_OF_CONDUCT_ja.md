@@ -1,5 +1,10 @@
 # コントリビューター行動規範
 
+<p>
+  <a href="./CODE_OF_CONDUCT.md"><img alt="CODE_OF_CONDUCT in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
+  <a href="./CODE_OF_CONDUCT_ja.md"><img alt="日本語のCODE_OF_CONDUCT" src="https://img.shields.io/badge/日本語-d9d9d9"></a>
+</p>
+
 ## 私たちの約束
 
 メンバー、コントリビューター、およびリーダーとして、年齢、体の大きさ、目に見えるまたは目に見えない障害、民族性、性的特徴、性同一性とジェンダー表現、経験のレベル、教育、社会経済的地位、国籍、人格、人種、カースト、肌の色、宗教、または性的同一性と性的指向に関係なく、コミュニティへの参加をハラスメントのない体験にすることを誓います。
