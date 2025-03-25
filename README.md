@@ -1,6 +1,12 @@
 # OSPO Google Apps Script by ROUTE06, Inc.
 
 <p>
+  <a href="https://github.com/route06inc/ospo-google-apps-script/actions/workflows/codeql.yml?query=branch%3Amain" target="_blank">
+    <img alt="CodeQL Status" src="https://img.shields.io/github/actions/workflow/status/route06inc/ospo-google-apps-script/.github%2Fworkflows%2Fcodeql.yml?branch=main&style=flat-square&logo=githubactions&label=CodeQL">
+  </a>
+</p>
+
+<p>
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
   <a href="./README_ja.md"><img alt="日本語のREADME" src="https://img.shields.io/badge/日本語-d9d9d9"></a>
 </p>
